@@ -9,4 +9,7 @@
 
     <!-- Device image for HW info -->
     <string name="config_deviceImageDrawable" translatable="false"></string>
+
+    <!-- Locale Picker -->
+    <bool name="config_show_setuplocalepicker_region_searchbox">true</bool>
 </resources>
